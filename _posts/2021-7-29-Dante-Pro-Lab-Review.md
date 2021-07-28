@@ -1,10 +1,12 @@
 
 ---
+
 title: Dante Pro Labs Review
 date: 2021-7-29 03:27:00 +0530
 categories: [HackTheBox]
 tags: [hackthebox, ctf, penetration testing, pentest]
 image: /assets/img/Posts/fuse.jpg
+
 ---
 
 
@@ -42,9 +44,9 @@ Before we cover any topics if you are into penetration testing you got to know s
 	You have to learn about enumeration very well cause its the first phase of your pentest which is like the home essentials. 
 	So, if you didn't enumerate well you gonna miss a lot of things and maybe your pentest fails.
 	Some resources for enumration:
-		- https://www.youtube.com/watch?v=WvSEkPU1n0I
-		- https://www.youtube.com/watch?v=947o1ySWU2w
-		- don't forget to do more search about enumeration
+	- https://www.youtube.com/watch?v=WvSEkPU1n0I
+	- https://www.youtube.com/watch?v=947o1ySWU2w
+	- don't forget to do more search about enumeration
 
 - Network Pentesting:
 
