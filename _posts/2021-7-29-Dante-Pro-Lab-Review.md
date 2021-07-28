@@ -9,8 +9,8 @@ image: /assets/img/Posts/dante.jpg
 
 ## Introduction:
 
-	Hey security friends, I'm gonna talk about dante pro lab from hack the box. For those who don't know dante pro lab, It's a lab that simulate the penetration testing engagement and the lab provid some of real-world scenario.
-	the lab contains 3 networks that include 14-machines. Which you have to hack it all.
+Hey security friends, I'm gonna talk about dante pro lab from hack the box. For those who don't know dante pro lab, It's a lab that simulate the penetration testing engagement and the lab provid some of real-world scenario.
+the lab contains 3 networks that include 14-machines. Which you have to hack it all.
 
 # Summary:
 To summarize the review, I will not just talk about dante pro lab, i am gonna talk about the dante pro lab side by penetration testing in general and how to go further with your penetration testing skills.
@@ -155,9 +155,9 @@ Before we cover any topics if you are into penetration testing you got to know s
 
 # Outer:
 
-	At the end, I would like to say that i have fun while playing thios lab and i became more familiar with a lot of attacks and techniques.
-	In my opanion the lab containes arond 60% of real-world scenarios. 
-	Another point about the differince between the normal machines and the labs in general that the labs teach you about the full penetration testing lifecycle & engagement.
-	For example the labs contains an enterprise network when you hack into a machine you have to show your skills in moving further than hacking a machine and get root then stop,
-	You have to move and note every single point to reuse the creds or whatever you got in moving inside the enterprise.
-	Last thing to do is to practice more and never stop research don't just put in your mind to just finish the lab but you have to think about gainning more knowledge and sharping your skills.
+At the end, I would like to say that i have fun while playing thios lab and i became more familiar with a lot of attacks and techniques.
+In my opanion the lab containes arond 60% of real-world scenarios. 
+Another point about the differince between the normal machines and the labs in general that the labs teach you about the full penetration testing lifecycle & engagement.
+For example the labs contains an enterprise network when you hack into a machine you have to show your skills in moving further than hacking a machine and get root then stop,
+You have to move and note every single point to reuse the creds or whatever you got in moving inside the enterprise.
+Last thing to do is to practice more and never stop research don't just put in your mind to just finish the lab but you have to think about gainning more knowledge and sharping your skills.
