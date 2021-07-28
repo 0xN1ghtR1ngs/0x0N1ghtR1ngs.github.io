@@ -16,7 +16,7 @@ the lab contains 3 networks that include 14-machines. Which you have to hack it 
 To summarize the review, I will not just talk about dante pro lab, i am gonna talk about the dante pro lab side by penetration testing in general and how to go further with your penetration testing skills.
 
 # Who can take this lab ?:
-- Anybody want top take security certificates such as ( OSCP & eCPPT )
+- Anybody want to take security certificates such as ( OSCP & eCPPT )
 - Anybody want to practice on penetration testing and prove his own skills
 - Anybody who is not getting enough with machines and wanna break a real-world scenario
 
